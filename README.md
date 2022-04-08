@@ -12,19 +12,19 @@ to be tested in later weeks.
 5.  Interpret the results.
 6. Create Tableau data file and worksheets.
 7. Calculate standard errors, and confidence intervals.
-8. Calculate t-tests, f-tests, z-tests, perform one-way ANOVA. Tukey test
+8. Calculate t-tests, f-tests, z-tests, perform one-way ANOVA. Tukey test.
 9.  Calculate non-parametric statistics.
 10.  Calculate Chi-Square statistics.
 11.  Interpret the results.
 12. Create Tableau worksheets.
-13. Correlations
-14. Simple Regressions
-15. Multiple regressions
-16. Using nominal data
-17. Create 3 scenarios
-18. Build and use optimization model
-19. Create a dynamic chart
-20. Create a Tableau Dashboard
+13. Correlations.
+14. Simple Regressions.
+15. Multiple regressions.
+16. Using nominal data.
+17. Create 3 scenarios.
+18. Build and use optimization model.
+19. Create a dynamic chart.
+20. Create a Tableau Dashboard.
 21. Graphs were created depicting correlations and simple regression diagnostics. 
 
 ![image](https://user-images.githubusercontent.com/98923915/162546409-d423c971-3b4d-401c-a73c-3eab0e7f612f.png)
