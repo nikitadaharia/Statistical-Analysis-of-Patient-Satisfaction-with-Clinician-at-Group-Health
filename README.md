@@ -1,7 +1,7 @@
 # Statistical-Analysis-of-Patient-Satisfaction-with-Clinician-at-Group-Health
 
 The purpose of the project is to utilize statistical analysis in Microsoft Excel and Tableau to recognize trends among the GroupHealth patient satisfaction survey data as a method to supply recommendations in order to improve clinician performance and ensure excellence in Group Health’s individualized physician-patient care experience.
-Specifically, Group Health’s patient satisfaction surveys focused on the patient’s satisfaction with the clinician (clinician satisfaction) was used a measuring tool to translate improvement categories and ratings of the clinician into meaningful, quantifiable, and actionable data. Finally, next steps of quality improvement can be implemented in the results of the analysis.
+Specifically, Group Health’s patient satisfaction surveys focused on the patient’s satisfaction with the clinician (clinician satisfaction) was used a measuring tool to translate improvement categories and ratings of the clinician into meaningful, quantifiable, and actionable data. Finally, next steps of quality improvement can be implemented in the results of the analysis. It was a part of my quantitative analysis class at the University of Washington.
 
 Statistical tests included in this project are:
 1. Provide literature review of the assigned topic.
